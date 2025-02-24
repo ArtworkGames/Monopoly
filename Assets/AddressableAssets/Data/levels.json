@@ -1,0 +1,52 @@
+[
+	{
+		"level": 1,
+		"xp": 10,
+		"reward": "5:energy,100:coins,1:bucks"
+	},
+	{
+		"level": 2,
+		"xp": 30,
+		"reward": "10:energy,150:coins,2:bucks"
+	},
+	{
+		"level": 3,
+		"xp": 50,
+		"reward": "15:energy,200:coins,3:bucks"
+	},
+	{
+		"level": 4,
+		"xp": 130,
+		"reward": "20:energy,250:coins,4:bucks"
+	},
+	{
+		"level": 5,
+		"xp": 240,
+		"reward": "25:energy,300:coins,5:bucks"
+	},
+	{
+		"level": 6,
+		"xp": 320,
+		"reward": "30:energy,350:coins,6:bucks"
+	},
+	{
+		"level": 7,
+		"xp": 350,
+		"reward": "35:energy,400:coins,7:bucks"
+	},
+	{
+		"level": 8,
+		"xp": 485,
+		"reward": "40:energy,450:coins,8:bucks"
+	},
+	{
+		"level": 9,
+		"xp": 660,
+		"reward": "45:energy,500:coins,9:bucks"
+	},
+	{
+		"level": 10,
+		"xp": 900,
+		"reward": "50:energy,550:coins,10:bucks"
+	}
+]

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 094a87edcf2582e47b85aded69e60b6d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: USER,FSPECULAR,FRIM,FILLUMINATION,FMASK1,FFORCE_SM2,FUVMASK1,FCUTOUT,fnoforwardadd,KILLUMIN_MASK:mask1,KILLUMIN_MASK_CHANNEL:.a,KUV_mask1:Independent
+    UV,chC4BE70B8
+  assetBundleName: 
+  assetBundleVariant: 

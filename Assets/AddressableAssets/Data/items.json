@@ -1,0 +1,44 @@
+[
+	{
+		"id": "coins",
+		"type": "system",
+		"titleKey": "item:coins:title",
+		"descrKey": "item:coins:descr"
+	},
+	{
+		"id": "bucks",
+		"type": "system",
+		"titleKey": "item:bucks:title",
+		"descrKey": "item:bucks:descr"
+	},
+	{
+		"id": "xp",
+		"type": "system",
+		"titleKey": "item:xp:title",
+		"descrKey": "item:xp:descr"
+	},
+	{
+		"id": "energy",
+		"type": "system",
+		"titleKey": "item:energy:title",
+		"descrKey": "item:energy:descr"
+	},
+	{
+		"id": "potato",
+		"type": "food",
+		"titleKey": "item:potato:title",
+		"descrKey": "item:potato:descr"
+	},
+	{
+		"id": "tomato",
+		"type": "food",
+		"titleKey": "item:tomato:title",
+		"descrKey": "item:tomato:descr"
+	},
+	{
+		"id": "cucumber",
+		"type": "food",
+		"titleKey": "item:cucumber:title",
+		"descrKey": "item:cucumber:descr"
+	}
+]

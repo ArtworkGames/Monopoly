@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 1b80bf430cae7a141b074c3ae96eb5a4
+timeCreated: 1518473328
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: USER,FSPECULAR,FRIM,FILLUMINATION,FMASK1,FFORCE_SM2,FUVMASK1,fnoforwardadd,KILLUMIN_MASK:mask1,KILLUMIN_MASK_CHANNEL:.a,KUV_mask1:Independent
+    UV,ch4050B0F6
+  assetBundleName: 
+  assetBundleVariant: 

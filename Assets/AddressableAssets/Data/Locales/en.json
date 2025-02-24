@@ -1,0 +1,33 @@
+{
+    "button:yes": "Yes",
+    "button:no": "No",
+
+    "confirmwindow:title": "Confirm",
+    "confirmwindow:defaultmessage": "Do you agree?",
+    "confirmwindow:resetprogress": "Are you sure you want to reset your progress?",
+
+    "settingswindow:title": "Settings",
+    "settingswindow:resetprogressbutton": "Reset Progress",
+
+    "gamerestartwindow:title": "Restart",
+    "gamerestartwindow:message": "For the changes to take effect, you need to restart the game",
+    "gamerestartwindow:restartbutton": "Restart",
+
+    "rewardchestwindow:title": "Open Chest!",
+    "rewardchestwindow:takebutton": "Take Reward",
+
+    "item:coins:title": "Coins",
+    "item:coins:descr": "Main currency of the game",
+    "item:bucks:title": "Bucks",
+    "item:bucks:descr": "Premium currency of the game",
+    "item:xp:title": "Experience",
+    "item:xp:descr": "Experience for completing tasks",
+    "item:energy:title": "Energy",
+    "item:energy:descr": "Energy for making moves",
+    "item:potato:title": "Potato",
+    "item:potato:descr": "Potato",
+    "item:tomato:title": "Tomato",
+    "item:tomato:descr": "Tomato",
+    "item:cucumber:title": "Cucumber",
+    "item:cucumber:descr": "Cucumber"
+}

@@ -1,0 +1,56 @@
+[
+	{
+		"id": "bucks_1",
+		"type": "bucks",
+		"items": "50:bucks",
+		"realPrice": "0.99",
+	},
+	{
+		"id": "bucks_2",
+		"type": "bucks",
+		"items": "150:bucks",
+		"realPrice": "1.99",
+	},
+	{
+		"id": "bucks_3",
+		"type": "bucks",
+		"items": "250:bucks",
+		"realPrice": "2.99",
+	},
+	{
+		"id": "energy_1",
+		"type": "energy",
+		"items": "50:energy",
+		"realPrice": "0.99",
+	},
+	{
+		"id": "energy_2",
+		"type": "energy",
+		"items": "150:energy",
+		"realPrice": "1.99",
+	},
+	{
+		"id": "energy_3",
+		"type": "energy",
+		"items": "250:energy",
+		"realPrice": "2.99",
+	},
+	{
+		"id": "coins_1",
+		"type": "coins",
+		"items": "10000:coins",
+		"realPrice": "0.99",
+	},
+	{
+		"id": "coins_2",
+		"type": "coins",
+		"items": "30000:coins",
+		"realPrice": "1.99",
+	},
+	{
+		"id": "coins_3",
+		"type": "coins",
+		"items": "50000:coins",
+		"realPrice": "2.99",
+	}
+]
